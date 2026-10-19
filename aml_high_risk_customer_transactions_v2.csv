@@ -1,0 +1,86 @@
+Transaction_ID,Customer_ID,Customer_Country,Transaction_Type,Transaction_Amount,Account_Age_Days,PEP_Flag,Previous_Alerts,Transactions_Last_24h,High_Risk_Country,High_Amount_Flag,High_Frequency_Flag,Previous_Alert_Flag,Risk_Score,Risk_Category,Alert_Reasons
+TXN003908,CUST1020,UAE,Card Payment,1354.78,1441,0,1,16,1,0,1,1,50,High,Synthetic High-Risk Country Flag | High Transaction Frequency | Previous Alert
+TXN002296,CUST1020,UAE,Bank Transfer,2072.69,744,0,0,19,0,0,1,0,20,Low,High Transaction Frequency
+TXN004956,CUST1020,UAE,Cash Withdrawal,626.09,2817,0,0,23,0,0,1,0,20,Low,High Transaction Frequency
+TXN000056,CUST1020,UAE,Cash Deposit,744.91,806,0,0,15,0,0,0,0,0,Low,No risk indicators triggered
+TXN002727,CUST1076,Poland,Cash Deposit,43380.63,2874,1,0,1,0,1,0,0,50,High,PEP Indicator | High Transaction Amount
+TXN004311,CUST1076,Poland,Card Payment,880.36,2178,0,0,1,1,0,0,0,20,Low,Synthetic High-Risk Country Flag
+TXN000840,CUST1076,Poland,Bank Transfer,2243.52,388,0,0,2,0,0,0,0,0,Low,No risk indicators triggered
+TXN004077,CUST1236,UK,Bank Transfer,4780.38,1041,1,1,6,1,0,0,1,55,High,PEP Indicator | Synthetic High-Risk Country Flag | Previous Alert
+TXN003669,CUST1236,Germany,Bank Transfer,11574.8,1153,0,0,3,0,1,0,0,25,Medium,High Transaction Amount
+TXN003272,CUST1236,Germany,Bank Transfer,1604.17,559,0,0,5,1,0,0,0,20,Low,Synthetic High-Risk Country Flag
+TXN003492,CUST1236,Germany,Bank Transfer,4502.07,30,0,1,1,0,0,0,1,10,Low,Previous Alert
+TXN003788,CUST1236,Germany,Card Payment,896.79,162,0,1,2,0,0,0,1,10,Low,Previous Alert
+TXN003139,CUST1236,Germany,Cash Withdrawal,2825.16,1434,0,0,7,0,0,0,0,0,Low,No risk indicators triggered
+TXN002636,CUST1236,Germany,Card Payment,1344.28,1870,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN003498,CUST1236,India,Card Payment,1067.07,2671,0,0,8,0,0,0,0,0,Low,No risk indicators triggered
+TXN002136,CUST1236,Germany,Bank Transfer,577.45,2530,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN002158,CUST1270,Poland,Bank Transfer,11008.34,1245,1,1,9,0,1,0,1,60,High,PEP Indicator | High Transaction Amount | Previous Alert
+TXN004559,CUST1270,Poland,Card Payment,562.27,62,0,1,4,1,0,0,1,30,Medium,Synthetic High-Risk Country Flag | Previous Alert
+TXN003411,CUST1270,Poland,Bank Transfer,2557.0,661,0,0,5,0,0,0,0,0,Low,No risk indicators triggered
+TXN003072,CUST1270,Poland,Card Payment,1600.29,745,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN001728,CUST1270,Poland,Card Payment,479.49,2612,0,0,14,0,0,0,0,0,Low,No risk indicators triggered
+TXN000049,CUST1491,UAE,Card Payment,14852.84,589,1,0,7,0,1,0,0,50,High,PEP Indicator | High Transaction Amount
+TXN003376,CUST1491,UAE,Card Payment,3602.07,2645,0,1,1,0,0,0,1,10,Low,Previous Alert
+TXN000529,CUST1491,UAE,Bank Transfer,1477.9,864,0,0,8,0,0,0,0,0,Low,No risk indicators triggered
+TXN001532,CUST1491,UAE,Bank Transfer,648.61,2955,0,0,7,0,0,0,0,0,Low,No risk indicators triggered
+TXN001446,CUST1491,UAE,Card Payment,275.35,1086,0,0,2,0,0,0,0,0,Low,No risk indicators triggered
+TXN000133,CUST1531,Nigeria,Bank Transfer,11513.17,2612,0,0,19,1,1,1,0,65,High,Synthetic High-Risk Country Flag | High Transaction Amount | High Transaction Frequency
+TXN003603,CUST1531,Nigeria,Bank Transfer,5017.64,150,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN002538,CUST1531,Nigeria,Cash Deposit,3680.88,56,0,0,5,0,0,0,0,0,Low,No risk indicators triggered
+TXN004251,CUST1531,Nigeria,Card Payment,2524.07,1413,0,0,2,0,0,0,0,0,Low,No risk indicators triggered
+TXN002884,CUST1531,Nigeria,Card Payment,1397.58,49,0,0,9,0,0,0,0,0,Low,No risk indicators triggered
+TXN001247,CUST1532,Nigeria,Card Payment,2580.51,198,1,0,17,1,0,1,0,65,High,PEP Indicator | Synthetic High-Risk Country Flag | High Transaction Frequency
+TXN000353,CUST1532,Nigeria,Bank Transfer,2884.38,1027,0,1,8,0,0,0,1,10,Low,Previous Alert
+TXN004873,CUST1532,Nigeria,Cash Withdrawal,764.31,696,0,1,4,0,0,0,1,10,Low,Previous Alert
+TXN001121,CUST1532,Nigeria,Card Payment,5269.09,927,0,0,5,0,0,0,0,0,Low,No risk indicators triggered
+TXN000511,CUST1532,Nigeria,Cash Withdrawal,2926.71,691,0,0,7,0,0,0,0,0,Low,No risk indicators triggered
+TXN000028,CUST1532,Nigeria,Bank Transfer,799.45,2977,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN000873,CUST1532,Nigeria,Card Payment,332.92,785,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN001311,CUST1532,Nigeria,Cash Withdrawal,265.36,2213,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN000242,CUST1532,Nigeria,Card Payment,199.99,1229,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN002981,CUST1563,UK,Bank Transfer,15260.4,229,1,0,2,0,1,0,0,50,High,PEP Indicator | High Transaction Amount
+TXN001139,CUST1563,UK,Bank Transfer,911.76,2952,1,1,1,0,0,0,1,35,Medium,PEP Indicator | Previous Alert
+TXN001469,CUST1563,UK,Card Payment,9401.86,836,0,0,13,0,0,0,0,0,Low,No risk indicators triggered
+TXN003538,CUST1563,UK,Card Payment,497.18,1129,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN000621,CUST1583,France,Card Payment,1585.9,571,1,0,19,1,0,1,0,65,High,PEP Indicator | Synthetic High-Risk Country Flag | High Transaction Frequency
+TXN002989,CUST1583,France,Bank Transfer,231.38,2051,1,0,8,0,0,0,0,25,Medium,PEP Indicator
+TXN001068,CUST1583,France,Cash Deposit,1469.88,261,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN000537,CUST1583,France,Cash Withdrawal,883.61,632,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN002416,CUST1583,France,Cash Deposit,358.95,2895,0,0,8,0,0,0,0,0,Low,No risk indicators triggered
+TXN001428,CUST1601,Germany,Bank Transfer,10782.46,1017,1,1,11,0,1,0,1,60,High,PEP Indicator | High Transaction Amount | Previous Alert
+TXN003566,CUST1601,Germany,Cash Deposit,619.19,1033,0,1,5,0,0,0,1,10,Low,Previous Alert
+TXN003516,CUST1601,Germany,Card Payment,3248.64,1336,0,0,8,0,0,0,0,0,Low,No risk indicators triggered
+TXN000630,CUST1601,Germany,Card Payment,1386.57,1804,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN000580,CUST1601,Germany,Card Payment,242.67,2713,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN004450,CUST1672,India,Card Payment,12970.75,2058,1,0,4,0,1,0,0,50,High,PEP Indicator | High Transaction Amount
+TXN000435,CUST1672,UK,Bank Transfer,5314.96,612,0,0,2,0,0,0,0,0,Low,No risk indicators triggered
+TXN000651,CUST1672,UK,Bank Transfer,2727.31,2254,0,0,1,0,0,0,0,0,Low,No risk indicators triggered
+TXN004269,CUST1672,UK,Card Payment,2011.81,2871,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN001490,CUST1672,UK,Bank Transfer,1809.38,1916,0,0,2,0,0,0,0,0,Low,No risk indicators triggered
+TXN001016,CUST1680,Poland,Bank Transfer,16343.47,1946,0,1,24,0,1,1,1,55,High,High Transaction Amount | High Transaction Frequency | Previous Alert
+TXN000090,CUST1680,Poland,Bank Transfer,822.43,2935,0,1,7,0,0,0,1,10,Low,Previous Alert
+TXN001534,CUST1680,Poland,Card Payment,4527.54,1482,0,0,8,0,0,0,0,0,Low,No risk indicators triggered
+TXN001873,CUST1680,Poland,Cash Deposit,2615.71,2989,0,0,5,0,0,0,0,0,Low,No risk indicators triggered
+TXN002039,CUST1680,Poland,Cash Withdrawal,1188.67,667,0,0,11,0,0,0,0,0,Low,No risk indicators triggered
+TXN001760,CUST1680,Poland,Bank Transfer,1183.62,534,0,0,1,0,0,0,0,0,Low,No risk indicators triggered
+TXN004187,CUST1680,Poland,Card Payment,154.98,1480,0,0,7,0,0,0,0,0,Low,No risk indicators triggered
+TXN001019,CUST1695,UAE,Card Payment,10986.51,2081,1,0,8,0,1,0,0,50,High,PEP Indicator | High Transaction Amount
+TXN000021,CUST1695,UAE,Bank Transfer,6737.3,2464,0,1,8,0,0,0,1,10,Low,Previous Alert
+TXN003533,CUST1695,UAE,Bank Transfer,1040.45,1195,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN001540,CUST1695,UAE,Bank Transfer,629.78,1917,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN003360,CUST1695,UAE,Bank Transfer,347.23,530,0,0,6,0,0,0,0,0,Low,No risk indicators triggered
+TXN003574,CUST1773,Nigeria,Cash Deposit,10119.55,2765,1,2,5,0,1,0,1,60,High,PEP Indicator | High Transaction Amount | Previous Alert
+TXN000167,CUST1773,UAE,Bank Transfer,4709.06,1443,0,0,1,0,0,0,0,0,Low,No risk indicators triggered
+TXN001191,CUST1888,UK,Bank Transfer,14848.24,1425,0,1,1,1,1,0,1,55,High,Synthetic High-Risk Country Flag | High Transaction Amount | Previous Alert
+TXN003459,CUST1888,UK,Card Payment,2995.27,2125,1,0,15,0,0,0,0,25,Medium,PEP Indicator
+TXN004698,CUST1888,UK,Cash Deposit,380.24,2540,0,0,5,1,0,0,0,20,Low,Synthetic High-Risk Country Flag
+TXN001618,CUST1888,UK,Card Payment,652.45,2167,0,1,7,0,0,0,1,10,Low,Previous Alert
+TXN001922,CUST1888,UK,Bank Transfer,3346.25,2892,0,0,3,0,0,0,0,0,Low,No risk indicators triggered
+TXN004988,CUST1888,UK,Bank Transfer,2024.63,263,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN004370,CUST1888,UK,Bank Transfer,1377.87,1547,0,0,4,0,0,0,0,0,Low,No risk indicators triggered
+TXN003375,CUST1933,India,Cash Deposit,1599.37,2378,0,1,17,1,0,1,1,50,High,Synthetic High-Risk Country Flag | High Transaction Frequency | Previous Alert
+TXN001773,CUST1933,India,Card Payment,1058.76,2848,0,1,4,0,0,0,1,10,Low,Previous Alert
+TXN000426,CUST1933,India,Card Payment,5692.71,1987,0,0,14,0,0,0,0,0,Low,No risk indicators triggered
+TXN000539,CUST1933,India,Bank Transfer,2860.16,1841,0,0,7,0,0,0,0,0,Low,No risk indicators triggered
+TXN002285,CUST1933,India,Bank Transfer,326.83,884,0,0,4,0,0,0,0,0,Low,No risk indicators triggered

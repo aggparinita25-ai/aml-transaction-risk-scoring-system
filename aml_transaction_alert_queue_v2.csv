@@ -1,0 +1,17 @@
+Transaction_ID,Customer_ID,Customer_Country,Transaction_Type,Transaction_Amount,Risk_Score,Risk_Category,Alert_Reasons,Review_Priority
+TXN000133,CUST1531,Nigeria,Bank Transfer,11513.17,65,High,Synthetic High-Risk Country Flag | High Transaction Amount | High Transaction Frequency,Priority 2
+TXN000621,CUST1583,France,Card Payment,1585.9,65,High,PEP Indicator | Synthetic High-Risk Country Flag | High Transaction Frequency,Priority 2
+TXN001247,CUST1532,Nigeria,Card Payment,2580.51,65,High,PEP Indicator | Synthetic High-Risk Country Flag | High Transaction Frequency,Priority 2
+TXN001428,CUST1601,Germany,Bank Transfer,10782.46,60,High,PEP Indicator | High Transaction Amount | Previous Alert,Priority 2
+TXN003574,CUST1773,Nigeria,Cash Deposit,10119.55,60,High,PEP Indicator | High Transaction Amount | Previous Alert,Priority 2
+TXN002158,CUST1270,Poland,Bank Transfer,11008.34,60,High,PEP Indicator | High Transaction Amount | Previous Alert,Priority 2
+TXN001191,CUST1888,UK,Bank Transfer,14848.24,55,High,Synthetic High-Risk Country Flag | High Transaction Amount | Previous Alert,Priority 2
+TXN001016,CUST1680,Poland,Bank Transfer,16343.47,55,High,High Transaction Amount | High Transaction Frequency | Previous Alert,Priority 2
+TXN004077,CUST1236,UK,Bank Transfer,4780.38,55,High,PEP Indicator | Synthetic High-Risk Country Flag | Previous Alert,Priority 2
+TXN000049,CUST1491,UAE,Card Payment,14852.84,50,High,PEP Indicator | High Transaction Amount,Priority 2
+TXN001019,CUST1695,UAE,Card Payment,10986.51,50,High,PEP Indicator | High Transaction Amount,Priority 2
+TXN002727,CUST1076,Poland,Cash Deposit,43380.63,50,High,PEP Indicator | High Transaction Amount,Priority 2
+TXN003375,CUST1933,India,Cash Deposit,1599.37,50,High,Synthetic High-Risk Country Flag | High Transaction Frequency | Previous Alert,Priority 2
+TXN002981,CUST1563,UK,Bank Transfer,15260.4,50,High,PEP Indicator | High Transaction Amount,Priority 2
+TXN003908,CUST1020,UAE,Card Payment,1354.78,50,High,Synthetic High-Risk Country Flag | High Transaction Frequency | Previous Alert,Priority 2
+TXN004450,CUST1672,India,Card Payment,12970.75,50,High,PEP Indicator | High Transaction Amount,Priority 2
